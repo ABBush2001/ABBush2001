@@ -8,7 +8,7 @@ Hello! My name is Alex Bush. I'm a Senior Computer Science major with a focus in
 I'm always interested in working on new projects! Feel free to contact me by visiting any of my resources below:
 
 - 📫 My [Linkedin](https://www.linkedin.com/in/alex-bush-3ba72523a/)
-- 💬 My [Peronal Website](abbush2001.github.io/Portfolio-Website/)
+- 💬 My Peronal Website, linked in my Github bio
 
 <!--
 **ABBush2001/ABBush2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

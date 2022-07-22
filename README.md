@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome To My Account! 👋
+
+Hello! My name is Alex Bush. I'm a Senior Computer Science major with a focus in Software Engineering at the University of Texas at San Antonio. My primary interest is video game design and development, particularly in Unity. My current projects include:
+
+- :flower_playing_cards: [Cyber Threat Protectors](https://github.com/ABBush2001/Cyber-Threat-Protectors), a Unity-based card game that teaches basic cyber security principles, in association with the UTSA Center for Infrastructure Assurance and Security.
+- :video_game: [SELENA VR](https://sidequestvr.com/app/2949), a Unity Virtual Reality game from non-profit *Resilience Inc,* meant to teach Social-Emotional Learning to K-12 children and young adults.
+
+I'm always interested in working on new projects! Feel free to contact me by visiting any of my resources below:
+
+- 📫 My [Linkedin](https://www.linkedin.com/in/alex-bush-3ba72523a/)
+- 💬 My [Peronal Website](abbush2001.github.io/Portfolio-Website/)
 
 <!--
 **ABBush2001/ABBush2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,8 +3,8 @@
 Hello! My name is Alex Bush. I'm a Senior Computer Science major with a focus in Software Engineering at the University of Texas at San Antonio. My primary interest is video game design and development, particularly in Unity. My current projects include:
 
 - :fire: [SAVE X CAMEE Project](https://github.com/ABBush2001/HeatmapDemo): A Unity-based application, in collaboration with the [SAVE](https://cs.utsa.edu/node/135) and [CAMEE](https://www.utsa.edu/NASA-CAMEE/) research labs, for providing real-time data visualizations of wildfires in augmented reality. Currently, I have focused on developing a heat-map data visualization for wildfire temperature data. 
-- :flower_playing_cards: [Cyber Threat Protectors](https://github.com/ABBush2001/Cyber-Threat-Protectors), a Unity-based card game that teaches basic cyber security principles, in association with the UTSA Center for Infrastructure Assurance and Security.
-- :video_game: [SELENA VR](https://sidequestvr.com/app/2949), a Unity Virtual Reality game from non-profit *Resilience Inc,* meant to teach Social-Emotional Learning to K-12 children and young adults.
+- :flower_playing_cards: [Cyber Threat Protectors](https://github.com/ABBush2001/Cyber-Threat-Protectors): a Unity-based card game that teaches basic cyber security principles, in association with the UTSA Center for Infrastructure Assurance and Security.
+- :video_game: [SELENA VR](https://sidequestvr.com/app/2949): a Unity Virtual Reality game from non-profit *Resilience Inc,* meant to teach Social-Emotional Learning to K-12 children and young adults.
 
 I'm always interested in working on new projects! Feel free to contact me by visiting any of my resources below:
 

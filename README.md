@@ -1,6 +1,6 @@
 ## Welcome To My Account! 👋
 
-Hello! My name is Alex Bush. I'm a Senior Computer Science major with a focus in Software Engineering at the University of Texas at San Antonio. My primary interest is gameplay programming and game development, particularly in Unity. My current projects include:
+Hello! My name is Alex Bush. I'm a recent graduate from UTSA, where I studied Computer Science with a focus in Software Engineering. My primary interest is gameplay programming and game development, particularly in Unity. My current projects include:
 
 - :flower_playing_cards: [Cyber Threat Protectors](https://github.com/ABBush2001/Cyber-Threat-Protectors): a Unity-based card game that teaches basic cyber security principles, in association with the UTSA Center for Infrastructure Assurance and Security.
 
